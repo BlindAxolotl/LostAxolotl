@@ -1,6 +1,7 @@
 baseURL = "https://blindaxolotl.github.io/LostAxolotl/"
 languageCode = "en-us"
 theme = "poison"
+canonifyURLs = true  # Fix for GitHub Pages subpath deployment
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 
 [pagination]
