@@ -107,3 +107,7 @@ pagerSize = 10
 [taxonomies]
     series = 'series'
     tags = 'tags'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
