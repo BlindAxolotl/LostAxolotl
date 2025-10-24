@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/LostAxolotl/</loc>
     <lastmod>2025-10-23T18:46:14-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/intro/</loc>
+    <loc>http://localhost:1313/LostAxolotl/posts/intro/</loc>
     <lastmod>2025-10-23T18:46:14-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/LostAxolotl/posts/</loc>
     <lastmod>2025-10-23T18:46:14-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>http://localhost:1313/LostAxolotl/about/</loc>
     <lastmod>2024-05-23T18:02:45-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>http://localhost:1313/LostAxolotl/series/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/LostAxolotl/tags/</loc>
   </url>
 </urlset>
