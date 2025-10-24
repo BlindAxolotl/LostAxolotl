@@ -2,18 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>https://blindaxolotl.github.io/LostAxolotl/posts/</link>
+    <link>http://localhost:1313/LostAxolotl/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Oct 2025 18:46:14 -0500</lastBuildDate>
-    <atom:link href="https://blindaxolotl.github.io/LostAxolotl/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Intro</title>
-      <link>https://blindaxolotl.github.io/LostAxolotl/posts/intro/</link>
-      <pubDate>Thu, 23 Oct 2025 18:46:14 -0500</pubDate>
-      <guid>https://blindaxolotl.github.io/LostAxolotl/posts/intro/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;How to take apart a javascript file and reverse engineer it.&#xA;&lt;strong&gt;this is bold text&lt;/strong&gt; and this is normal text.&lt;/p&gt;&#xA;&lt;p&gt;Lots of spaces here.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/LostAxolotl/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
